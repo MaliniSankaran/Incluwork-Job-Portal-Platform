@@ -1,4 +1,4 @@
-# IncluWork-final project
+# IncluWork
 
 ## Description
 IncluWork is a full stack web application aimed at providing job opportunities to differently abled individuals, addressing human rights and equality issues as outlined by the UN. The platform facilitates employment by connecting job seekers with inclusive employers who offer accommodations and support services to create an accessible work environment. Job seekers can create profiles, while employers can post job listings and review candidates. Admin verification ensures that disability proofs provided by job seekers are valid before completing job applications. The system matches job seeker skills with employer job preferences to enhance job placement.
@@ -262,19 +262,5 @@ Cardinality defines the multiplicity of the relationships, specifying how many i
   - Endpoint: GET /admin/users
 
 
-
-## Team Members
-
-- **Apurva Raj**
-  - Email: apurvaraj9808@gmail.com
-
-- **Malini Janaki Sankaran**
-  - Email: janakisankaran.m@northeastern.edu
-
-- **Soumya Ganesh**
-  - Email: ganesh.so@northeastern.edu
-
-- **Vamsi Krishna Poluru**
-  - Email: poluru.va@northeastern.edu
 
 
